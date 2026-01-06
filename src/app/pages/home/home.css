@@ -1,10 +1,14 @@
 p {
-    margin: 0 0 1rem 0;
-    color: rgb(43, 176, 197);
+    margin:1rem;
+    color: rgb(43, 58, 14);
     font-size: larger;
     justify-content: center;
     text-align: center;
     font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
     
 
 }
